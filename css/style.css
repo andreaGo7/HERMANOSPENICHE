@@ -1,0 +1,125 @@
+html,
+body,
+header{
+height: 100%;
+}
+.footer{
+background-color: #401201;
+}
+
+
+.navbar {
+background-color: transparent;
+}
+
+.top-nav-collapse {
+background-color: #75280A;
+}
+/*colo barra de navegacion*/
+
+@media only screen and (max-width: 768px) {
+.navbar {
+    background-color:#75280A;
+}
+}
+
+
+.page-footer {
+    background-color:#75280A;
+}
+.footer-b{
+    background-color: #401201;
+}
+
+.team{
+    color:#401201;
+}
+.vermas{
+   background-color:#C05619; 
+   color:#F2D0A7;
+}
+
+
+.ico{
+    color:#C05619;
+}
+.ico2{
+    color:#75280A;
+}
+.ico3{
+    color: #A43E15;
+}
+.ico4{
+    color: #BF793B;
+}
+.enviar{
+    background-color:#C05619;
+    color: #F2EFEB;
+}
+.contatanos{
+    background-color: #75280A;
+}
+
+.uno1{
+   background-color: #C05619;
+}
+.dos2{
+    background-color: #C05619;
+ }
+ .tres3{
+    background-color: #C05619;
+ }
+ .cuatro4{
+    background-color: #C05619;
+ }
+ .cinco5{
+    background-color: #C05619;
+ }
+
+
+
+ 
+ 
+ .view {
+    height: 100%;
+  }
+
+  @media (max-width: 740px) {
+    html,
+    body,
+    header,
+    .view {
+      height: 100vh;
+    }
+  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.zoom{
+      transition: 1.5s ease;
+}
+.zoom:hover{
+      transform : scale(1.5);
+}
+
+
+.zoom1{
+    transition: 3s ease;
+}
+.zoom1:hover{
+    transform : scale(3);
+}
